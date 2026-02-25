@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Raj Kishan Prasad, a Mobile App Developer at Wit by Bit. I'm the only mobile developer there, managing 4-5 projects simultaneously in domains like e-commerce, CRM, and e-registration. I graduated from VIT Vellore with an MCA and a 9 CGPA. I'm known for being a quick learner, an effective problem-solver, and capable of handling multiple responsibilities efficiently.
-
+Hey there, I'm Raj. I'm a Full Stack Engineer at essentia.dev building across web, mobile, and backend using React, Angular, Flutter, Node, and Bun.js. I did my MCA at VIT Vellore, and I'm the kind of dev who thrives on learning new things fast and solving tricky problems as they pop up. Great to meet you!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-kishan-prasad-7893ab1aa) 
